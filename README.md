@@ -1,6 +1,6 @@
 #Apress Source Code
 
-This repository accompanies [*Python Descriptors*](http://www.apress.com/9781484225042) by Zimmerman, Jacob (Apress, 2016).
+This repository accompanies [*Python Descriptors*](http://www.apress.com/9781484225042) by Jacob Zimmerman (Apress, 2016).
 
 ![Cover image](9781484225042.jpg)
 
